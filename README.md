@@ -8,7 +8,7 @@ Currently I'm studying at Driven Education to become a Full Stack Developer. Pre
 - ☕ Coffee is life!
 
 ### 📝 GitHub Status
-<p><img src="https://github-readme-stats.vercel.app/api?username=lguilhermefl&show_icons=true"><p>
+<p><img height="150em" src="https://github-readme-stats.vercel.app/api?username=lguilhermefl&show_icons=true&theme=github_dark"><p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lguilhermefl&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
