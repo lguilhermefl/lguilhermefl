@@ -13,6 +13,7 @@ I enjoy learning new technologies and have interest on crypto market, wich I've 
 
 ### 📝 GitHub Status
 <div>
+![Luiz Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=lguilhermefl&theme=dark&show_icons=true)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lguilhermefl&show_icons=true&theme=github_dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lguilhermefl&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
