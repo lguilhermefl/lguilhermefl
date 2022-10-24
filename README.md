@@ -1,9 +1,11 @@
 ### Hello, my name is Luiz 👋
 
-I'm a Full Stack Developer and I work with Node.js, PostgreSQL, MongoDB and React. Previously I worked making Wordpress websites, mostly for e-commerce. 
-<div  align="center">
-  <img width="700" src="https://miro.medium.com/max/720/0*eIhVp0KXrXSSHORN.gif" />
-</div>
+I'm a Full Stack Developer and I work with Node.js, PostgreSQL, MongoDB and React. Previously I worked making Wordpress websites, mostly for e-commerce.
+
+I like to play online games such as Valorant and League of Legends, but I mostly watch world tournaments rather than play, cause you know, not so much time available for it :joy:
+
+<img width="700" src="https://miro.medium.com/max/720/0*eIhVp0KXrXSSHORN.gif" />
+
 
 ### 📝 GitHub Status
 <div>
