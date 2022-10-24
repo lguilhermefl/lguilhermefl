@@ -1,15 +1,11 @@
 ### Hello, my name is Luiz 👋
 
-Currently I'm studying at Driven Education to become a Full Stack Developer. Previously I worked making Wordpress websites, mostly for e-commerce. 
+I'm a Full Stack Developer and I work with Node.js, PostgreSQL, MongoDB and React. Previously I worked making Wordpress websites, mostly for e-commerce. 
 
-- 🔭 I’m currently working on my formation as a Full Stack Developer
-- 🌱 I’m currently learning Javascript
-- 💬 Ask me about anything
-- ☕ Coffee is life!
+<img align="center" width="200em" src="https://miro.medium.com/max/720/0*eIhVp0KXrXSSHORN.gif" />
 
 ### 📝 GitHub Status
 <div>
-<img src="https://miro.medium.com/max/720/0*eIhVp0KXrXSSHORN.gif" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lguilhermefl&show_icons=true&theme=github_dark" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lguilhermefl&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
