@@ -9,6 +9,7 @@ Currently I'm studying at Driven Education to become a Full Stack Developer. Pre
 
 ### 📝 GitHub Status
 <div>
+<img src="https://miro.medium.com/max/720/0*eIhVp0KXrXSSHORN.gif" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lguilhermefl&show_icons=true&theme=github_dark" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lguilhermefl&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
