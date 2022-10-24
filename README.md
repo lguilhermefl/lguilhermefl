@@ -2,13 +2,13 @@
 
 I'm a Full Stack Developer and I work with Node.js, PostgreSQL, MongoDB and React. Previously I worked making Wordpress websites, mostly for e-commerce. 
 <div  align="center">
-<img src="https://miro.medium.com/max/720/0*eIhVp0KXrXSSHORN.gif" />
-  </div>
+  <img src="https://miro.medium.com/max/720/0*eIhVp0KXrXSSHORN.gif" />
+</div>
 
 ### 📝 GitHub Status
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lguilhermefl&show_icons=true&theme=github_dark" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lguilhermefl&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lguilhermefl&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lguilhermefl&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ### 🕹️ Languages & Tools
