@@ -4,6 +4,10 @@ I'm a Full Stack Developer and I work with Node.js, PostgreSQL, MongoDB and Reac
 
 I like to play online games such as Valorant and League of Legends, but I mostly watch world tournaments rather than play, cause you know, not so much time available for it :joy:
 
+As an adolescent I was a big fan of Harry Potter's franchise, having the book collection and reading it multiple times, and on my free time I enjoy watching shows such as House of the Dragon and Rings of Power, a bit of my nerd side.
+
+I enjoy learning new technologies and have interest on crypto market, wich I've been following in the last years and am looking more into the development side of it.
+
 <img width="700" src="https://miro.medium.com/max/720/0*eIhVp0KXrXSSHORN.gif" />
 
 
