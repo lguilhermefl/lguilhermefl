@@ -2,7 +2,7 @@
 
 I'm a Full Stack Developer and I work with Node.js, PostgreSQL, MongoDB and React. Previously I worked making Wordpress websites, mostly for e-commerce. 
 <div  align="center">
-  <img width="1000" src="https://miro.medium.com/max/720/0*eIhVp0KXrXSSHORN.gif" />
+  <img width="700" src="https://miro.medium.com/max/720/0*eIhVp0KXrXSSHORN.gif" />
 </div>
 
 ### 📝 GitHub Status
