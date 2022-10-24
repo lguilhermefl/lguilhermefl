@@ -1,7 +1,7 @@
 ### Hello, my name is Luiz 👋
 
 I'm a Full Stack Developer and I work with Node.js, PostgreSQL, MongoDB and React. Previously I worked making Wordpress websites, mostly for e-commerce. 
-<div  align="center">
+<div  align="center" width="400em">
   <img src="https://miro.medium.com/max/720/0*eIhVp0KXrXSSHORN.gif" />
 </div>
 
